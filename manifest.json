@@ -4,7 +4,7 @@
     "description": "A modern movie streaming platform built with React.",
     "start_url": "/reactflix/",
     "scope": "/reactflix/",
-    "display": "standalone",
+    "display": "fullscreen",
     "background_color": "#000000",
     "theme_color": "#1f2937",
     "orientation": "portrait",
